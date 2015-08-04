@@ -1,6 +1,12 @@
 class Fixnum
   define_method(:sleep_in) do
     date = Time.new()
-    date.day()
+
+    if date.tuesday?() == true
+      "Tuesday"
+    else
+      "Not Tuesday"
+    end
+
   end
 end
