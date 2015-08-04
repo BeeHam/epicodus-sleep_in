@@ -1,12 +1,12 @@
-#{Sleep In?}
+#Sleep In?
 
-#####{Tells you if you should sleep in or not today!}, {August 4th 2015}
+#####Tells you if you should sleep in or not today!, August 4th 2015
 
-####By {Justin Scott & Brigham Thompson}
+####By Justin Scott & Brigham Thompson
 
 ##Description
 
-{This method will tell you on the current day if you should sleep in or not. On weekdays it will tell you to wake up. On weekends it will tell you to sleep in.}
+This method will tell you on the current day if you should sleep in or not. On weekdays it will tell you to wake up. On weekends it will tell you to sleep in.
 
 ##Setup
 
