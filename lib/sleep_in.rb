@@ -1,12 +1,13 @@
-class Fixnum
+class Time
   define_method(:sleep_in) do
     date = Time.new()
 
-    if date.tuesday?() == true
-      "Tuesday"
+    if date.saturday?() == true
+      "Sleep in!"
+    elsif date.sunday?() == true
+      "Sleep in!"
     else
-      "Not Tuesday"
+      "Wake up!"
     end
-
   end
 end
